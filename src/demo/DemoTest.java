@@ -17,7 +17,10 @@ public class DemoTest {
 	public static void divide(int a, int b) {
 		System.out.println(a / b);
 	}
-	
-	// Please create a substract method
+
+	// Please create a subtract method
+	public static void subtract(int a, int b) {
+		System.out.println(a - b);
+	}
 
 }
